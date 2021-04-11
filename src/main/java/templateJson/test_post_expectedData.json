@@ -1,0 +1,5 @@
+{
+    "amount": amountValue,
+    "currency": "currencyValue",
+    "country_code": "countryCodeValue"
+}

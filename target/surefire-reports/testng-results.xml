@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PPRO TEST" duration-ms="11436" started-at="2021-04-11T19:50:46 CEST" finished-at="2021-04-11T19:50:58 CEST">
+    <groups>
+    </groups>
+    <test name="ApiTest" duration-ms="11436" started-at="2021-04-11T19:50:46 CEST" finished-at="2021-04-11T19:50:58 CEST">
+      <class name="com.test.automation.testCases.TestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="10" started-at="2021-04-11T19:50:46 CEST" finished-at="2021-04-11T19:50:46 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="9138" started-at="2021-04-11T19:50:46 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:55 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EUR]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="5" started-at="2021-04-11T19:50:55 CEST" finished-at="2021-04-11T19:50:55 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="431" started-at="2021-04-11T19:50:55 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:56 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AB]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="3" started-at="2021-04-11T19:50:56 CEST" finished-at="2021-04-11T19:50:56 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="390" started-at="2021-04-11T19:50:56 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:56 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EUR]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NN]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="2" started-at="2021-04-11T19:50:56 CEST" finished-at="2021-04-11T19:50:56 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="331" started-at="2021-04-11T19:50:56 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:57 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AUD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EUR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="5" started-at="2021-04-11T19:50:57 CEST" finished-at="2021-04-11T19:50:57 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="329" started-at="2021-04-11T19:50:57 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:57 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AU]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="3" started-at="2021-04-11T19:50:57 CEST" finished-at="2021-04-11T19:50:57 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="365" started-at="2021-04-11T19:50:57 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:57 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AU]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="setUp" is-config="true" duration-ms="3" started-at="2021-04-11T19:50:57 CEST" finished-at="2021-04-11T19:50:57 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_incorrectData_post(int, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.testCases.TestCases@4f7d0008]" name="test_incorrectData_post" duration-ms="353" started-at="2021-04-11T19:50:57 CEST" data-provider="incorrect-data-provider" finished-at="2021-04-11T19:50:58 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SG]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_incorrectData_post -->
+      </class> <!-- com.test.automation.testCases.TestCases -->
+    </test> <!-- ApiTest -->
+  </suite> <!-- PPRO TEST -->
+</testng-results>

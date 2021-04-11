@@ -1,0 +1,7 @@
+com\test\automation\base\BaseTest.class
+com\test\automation\constant\StatusCodes.class
+com\test\automation\restAssured\RestAssuredClient.class
+com\test\automation\testCases\TestCases.class
+com\test\automation\constant\FrameworkConstant.class
+com\test\automtion\dataProvider\StaticDataProvider.class
+com\test\automation\utility\Utility.class
